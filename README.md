@@ -17,14 +17,14 @@
 
 ### Connect with me:
 <p>
+  <a href="https://www.linkedin.com/in/narek-poghosyan-9785111b2/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white">
+  </a>
   <a href="mailto:poghosyannarek99@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail">
   </a>
   <a href="https://t.me/NarekPoghosyan99">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Message-26A5E4?logo=telegram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/narek-poghosyan-9785111b2/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white">
   </a>
 </p>
 
