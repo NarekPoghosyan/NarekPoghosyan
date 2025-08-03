@@ -1,16 +1,22 @@
 <!-- Title -->
-<p align="center">
-  <a href="https://github.com/NarekPoghosyan">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=NarekPoghosyan&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
 <h1 align="center">Hi 👋, I'm Narek</h1>
 <p align="center"><b>Senior Frontend Engineer — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</b></p>
 
 ---
-<!-- Social / quick actions -->
-<p align="center"><b>Connect with me</b></p>
-<p align="center">
+
+<p>
+  <a href="https://github.com/NarekPoghosyan">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=NarekPoghosyan&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+- 👨‍💻 Senior Frontend Engineer @ **Anex (ex-AnexTour)**  
+- 💬 Ask me about Next.js, React, Github actions, Storybook, monorepos and Typescript
+- 📫 How to reach me poghosyannarek99@gmail.com
+- ⚡️ Fun fact: Mercedes enthusiast | Black is my vibe
+
+<h2><b>Connect with me:</b></h2>
+<p>
   <a href="mailto:poghosyannarek99@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail">
   </a>
@@ -21,12 +27,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white">
   </a>
 </p>
-
-### About me
-- 👨‍💻 Senior Frontend Engineer @ **Anex (ex-AnexTour)**  
-- 💬 Ask me about Next.js, React, Github actions, Storybook, monorepos and Typescript
-- 📫 How to reach me poghosyannarek99@gmail.com
-- ⚡️ Fun fact: Mercedes enthusiast | Black is my vibe
 
 ---
 
