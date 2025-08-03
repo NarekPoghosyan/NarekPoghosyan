@@ -40,11 +40,12 @@
 
 ### Featured projects
 <!-- Replace with 3–6 strongest repos. Add demos/screens if possible. -->
-- 🚀 **Microfrontends Platform (Next.js + Turborepo)** — domain boundaries, shared packages, DX tooling. <!-- [Repo](...) · [Demo](...) -->
-- 🧰 **Design System + Storybook/Chromatic** — a11y-first components, tokens, visual regression at scale. <!-- [Repo](...) · [Storybook](...) -->
-- 🗺️ **Maps** — unified API for Mapbox/Google/Yandex with clustering & performance budgets. <!-- [Repo](...) -->
-- ⚙️ **Search & Booking Engine** — SSR/ISR pages, granular caching, TanStack Query prefetch, optimistic UX. <!-- [Repo](...) · [Demo](...) -->
-- 🧪 **Testing & CI Blueprint** — MSW contract tests, component/visual tests, GitHub Actions matrix builds, Turbo cache. <!-- [Repo](...) -->
+- 🚀 **Microfrontends Platform** — Next.js 14, Turborepo, Yarn/Pnpm workspaces, module federation, GitHub Actions
+- 🧰 **Design System** — Storybook, Chromatic, RAC/ARIA, tokens, ESLint/Prettier rules, release automation
+- 🗺️ **Maps SDK** — React + Mapbox GL, Google Maps JS, Yandex Maps; clustering, geojson tiling, memoized layers
+- ⚙️ **Search & Booking Engine** — SSR/ISR, React Server Components, TanStack Query, cache tags, edge functions
+- 🧪 **Testing & CI** — MSW, Vitest/Jest, Cypress/Playwright, Percy/Chromatic VRT, matrix builds, Turbo remote cache
+
 
 
 ---
