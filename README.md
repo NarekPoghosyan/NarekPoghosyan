@@ -1,13 +1,15 @@
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm Narek</h1>
-<p align="center">Senior Frontend Engineer — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</p>
-
-<!-- Social / quick actions -->
-<p align="center"><b>Connect with me</b></p>
 <p align="center">
   <a href="https://github.com/NarekPoghosyan">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=NarekPoghosyan&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
+</p>
+<h1 align="center">Hi 👋, I'm Narek</h1>
+<p align="center"><b>Senior Frontend Engineer — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</b></p>
+
+<!-- Social / quick actions -->
+<p align="center"><b>Connect with me</b></p>
+<p align="center">
   <a href="mailto:poghosyannarek99@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail">
   </a>
@@ -23,10 +25,9 @@
 
 ### About me
 - 👨‍💻 Senior Frontend Engineer @ **Anex (ex-AnexTour)**  
-- 🧭 I build **microfrontend** platforms on **Next.js + Turborepo**, enforce **strict TypeScript**, and care about **DX, performance & a11y**  
-- 🧰 Product toolkit: **TypeScript, React 19, Next.js (SSR/SSG/Edge), TanStack Query, Zustand, React-Aria, Storybook + Chromatic, Turborepo, CI/CD (GitHub Actions + Vercel), MSW, Jest/Vitest, Husky, pm2/nginx**  
-- 🗺️ Maps: **Mapbox / Google / Yandex** (unified API, clustering, perf control)
-- 🤝 Open to interesting frontend architecture & performance work
+- 💬 Ask me about Next.js, React, Github actions, Storybook, monorepos and Typescript
+- 📫 How to reach me poghosyannarek99@gmail.com
+- ⚡️ Fun fact: Mercedes enthusiast | Black is my vibe
 
 ---
 
@@ -41,7 +42,7 @@
 <!-- Replace with 3–6 strongest repos. Add demos/screens if possible. -->
 - 🚀 **Microfrontends Platform (Next.js + Turborepo)** — shared packages, boundaries, DX tooling
 - 🧰 **Design System + Storybook/Chromatic** — a11y-first components, tokens
-- 🗺️ **Unified Maps API** — Mapbox/Google/Yandex with clustering & perf guards
+- 🗺️ **Maps** — Mapbox/Google/Yandex with clustering & perf guards
 
 ---
 
@@ -58,13 +59,6 @@
 
 <details>
   <summary>More Info</summary>
-
-
-- Сеньор фронтенд в **Anex**.  
-- Микрофронтенды на **Next.js + Turborepo**, строгий **TS**, DX/перф/доступность.  
-- Архитектура, карта интеграций, стандартизация слоя данных, CI/CD, тест-стратегии.  
-
----
 
 ### Highlights (what I do at Anex)
 - Built **microfrontend architecture** on **Next.js + Turborepo** with clear domain boundaries and shared packages  
