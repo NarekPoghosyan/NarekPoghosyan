@@ -21,7 +21,7 @@
 ---
 
 ### About me
-- 👨‍💻 Senior Frontend Engineer @ **Anex (ex-anextour)**  
+- 👨‍💻 Senior Frontend Engineer @ **Anex (ex-AnexTour)**  
 - 🧭 I build **microfrontend** platforms on **Next.js + Turborepo**, enforce **strict TypeScript**, and care about **DX, performance & a11y**  
 - 🧰 Product toolkit: **TypeScript, React 19, Next.js (SSR/SSG/Edge), TanStack Query, Zustand, React-Aria, Storybook + Chromatic, Turborepo, CI/CD (GitHub Actions + Vercel), MSW, Jest/Vitest, Husky, pm2/nginx**  
 - 🗺️ Maps: **Mapbox / Google / Yandex** (unified API, clustering, perf control)
