@@ -2,13 +2,13 @@
 <p align="center">Frontend • React / Next.js / TS</p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GH_USERNAME?tab=followers">
+  <a href="https://github.com/NarekPoghosyan?tab=followers">
     <img alt="followers" src="https://img.shields.io/github/followers/YOUR_GH_USERNAME?style=flat&logo=github">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:poghosyannarek99@gmail.com">
     <img alt="email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/narek-poghosyan-9785111b2">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
 </p>
