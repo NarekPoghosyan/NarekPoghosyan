@@ -1,6 +1,7 @@
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Narek</h1>
-<p align="center"><b>Senior Frontend Engineer — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</b></p>
+<p align="center"><b>Lead Frontend Engineer</b></p>
+<p align="center"><b>Engineering reliable web at scale — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</b></p>
 
 <p>
   <a href="https://github.com/NarekPoghosyan">
@@ -27,17 +28,24 @@
 </p>
 
 ### Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,jest,vitest,storybook,vercel,webpack,vite,rxjs,graphql,nodejs,express,mongodb,postgres,redis,nginx,docker,linux,bash,git,githubactions,ngrx,threejs,mapbox&perline=13" />
+<p align="left">
+  <div style="display:flex; align-items:center; gap:8px; flex-wrap:nowrap; overflow-x:auto;">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,redux,tailwind,styledcomponents,html,css,sass,webpack,vite,rollup,jest,vitest,vercel,graphql,apollo,prisma,postgres,mongodb,redis,sqlite,mysql,nginx,docker,linux,bash,git,githubactions,aws,gcp,azure,kubernetes,terraform,cloudflare,netlify,cypress,sentry,threejs,rxjs,bootstrap,materialui,postman,pnpm,yarn,npm,vitest,babel,grafana&perline=13" />
+    <img style="display:flex; src="https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier,playwright,socketio,testinglibrary,storybook&perline=14" />
+  </div>
 </p>
+
 
 ---
 
 ### Featured projects
 <!-- Replace with 3–6 strongest repos. Add demos/screens if possible. -->
-- 🚀 **Microfrontends Platform (Next.js + Turborepo)** — shared packages, boundaries, DX tooling
-- 🧰 **Design System + Storybook/Chromatic** — a11y-first components, tokens
-- 🗺️ **Maps** — Mapbox/Google/Yandex with clustering & perf guards
+- 🚀 **Microfrontends Platform (Next.js + Turborepo)** — domain boundaries, shared packages, DX tooling. <!-- [Repo](...) · [Demo](...) -->
+- 🧰 **Design System + Storybook/Chromatic** — a11y-first components, tokens, visual regression at scale. <!-- [Repo](...) · [Storybook](...) -->
+- 🗺️ **Maps** — unified API for Mapbox/Google/Yandex with clustering & performance budgets. <!-- [Repo](...) -->
+- ⚙️ **Search & Booking Engine** — SSR/ISR pages, granular caching, TanStack Query prefetch, optimistic UX. <!-- [Repo](...) · [Demo](...) -->
+- 🧪 **Testing & CI Blueprint** — MSW contract tests, component/visual tests, GitHub Actions matrix builds, Turbo cache. <!-- [Repo](...) -->
+
 
 ---
 
