@@ -3,9 +3,10 @@
 <p align="center">Senior Frontend Engineer — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</p>
 
 <!-- Social / quick actions -->
+<p align="center"><b>Connect with me</b></p>
 <p align="center">
-  <a href="https://github.com/NarekPoghosyan?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/NarekPoghosyan?style=flat&logo=github">
+  <a href="https://github.com/NarekPoghosyan">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=NarekPoghosyan&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
   <a href="mailto:poghosyannarek99@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail">
@@ -38,9 +39,9 @@
 
 ### Featured projects
 <!-- Replace with 3–6 strongest repos. Add demos/screens if possible. -->
-- 🚀 **Microfrontends Platform (Next.js + Turborepo)** — shared packages, boundaries, DX tooling. [[Repo](<!-- TODO -->)] · [[Demo](<!-- TODO -->)]
-- 🧰 **Design System + Storybook/Chromatic** — a11y-first components, tokens. [[Repo](<!-- TODO -->)] · [[Storybook](<!-- TODO -->)]
-- 🗺️ **Unified Maps API** — Mapbox/Google/Yandex with clustering & perf guards. [[Repo](<!-- TODO -->)]
+- 🚀 **Microfrontends Platform (Next.js + Turborepo)** — shared packages, boundaries, DX tooling
+- 🧰 **Design System + Storybook/Chromatic** — a11y-first components, tokens
+- 🗺️ **Unified Maps API** — Mapbox/Google/Yandex with clustering & perf guards
 
 ---
 
@@ -56,7 +57,8 @@
 ---
 
 <details>
-  <summary>кратко обо мне</summary>
+  <summary>More Info</summary>
+
 
 - Сеньор фронтенд в **Anex**.  
 - Микрофронтенды на **Next.js + Turborepo**, строгий **TS**, DX/перф/доступность.  
