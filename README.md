@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm Narek Poghosyan</h1>
+<h1 align="center">Hi 👋, I'm Narek</h1>
 <p align="center">Senior Frontend Engineer — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</p>
 
 <!-- Social / quick actions -->
