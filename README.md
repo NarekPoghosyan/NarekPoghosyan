@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Narek</h1>
-<p align="center"><b>Lead Frontend Engineer</b></p>
+<h3 align="center"><b>Lead Frontend Engineer</b></h3>
 <p align="center"><b>Engineering reliable web at scale — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</b></p>
 
 <p>
