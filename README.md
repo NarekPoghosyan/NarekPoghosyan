@@ -29,28 +29,10 @@
 
 ---
 
-### Highlights (what I do at Anex)
-- Built **microfrontend architecture** on **Next.js + Turborepo** with clear domain boundaries and shared packages  
-- Set **module/alias conventions**, layered structure, and import policies  
-- Shipped **design system** (Storybook + Chromatic, tokens, accessible components, Tailwind layer)  
-- Runtime strategy: **SSR / SSG / Edge / client**, code-splitting, dynamic imports, **lazy hydration**, **virtualization**  
-- Standardized data-layer: **TanStack Query** patterns (prefetch, granular invalidation, optimistic), modular **Zustand** stores, **Axios** HTTP adapters  
-- Unified **Maps** integrations (Mapbox/Google/Yandex) into one API with clustering & perf budget  
-- **DX automation**: custom CLIs, bundle-guard rails, type/lint/visual-regression scripts  
-- **Testing strategy**: component & visual tests, MSW mock/contract, routing/store isolation  
-- **Code quality**: strict TS, ESLint rules, mandatory **pre-commit** checks (Husky)  
-- **CI/CD**: GitHub Actions (matrix builds, Turbo cache), Storybook/Chromatic publishing, artifacts governance  
-- **Security & reliability**: centralized error handling, sane **env** policy, dependency control  
-- **A11y/UX**: React-Aria components, focus-management, keyboard flows
-
----
-
 ### Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,jest,vitest,storybook,vercel,webpack,vite,rxjs,graphql,nodejs,express,mongodb,postgres,redis,nginx,docker,linux,bash,git,githubactions,ngrx,threejs,mapbox&perline=13" />
 </p>
-
-> Tip: keep it focused. If icons feel too many — hide extras inside `<details>`.
 
 ---
 
@@ -74,9 +56,25 @@
 ---
 
 <details>
-  <summary>RU: кратко обо мне</summary>
+  <summary>кратко обо мне</summary>
 
 - Сеньор фронтенд в **Anex**.  
 - Микрофронтенды на **Next.js + Turborepo**, строгий **TS**, DX/перф/доступность.  
 - Архитектура, карта интеграций, стандартизация слоя данных, CI/CD, тест-стратегии.  
+
+---
+
+### Highlights (what I do at Anex)
+- Built **microfrontend architecture** on **Next.js + Turborepo** with clear domain boundaries and shared packages  
+- Set **module/alias conventions**, layered structure, and import policies  
+- Shipped **design system** (Storybook + Chromatic, tokens, accessible components, Tailwind layer)  
+- Runtime strategy: **SSR / SSG / Edge / client**, code-splitting, dynamic imports, **lazy hydration**, **virtualization**  
+- Standardized data-layer: **TanStack Query** patterns (prefetch, granular invalidation, optimistic), modular **Zustand** stores, **Axios** HTTP adapters  
+- Unified **Maps** integrations (Mapbox/Google/Yandex) into one API with clustering & perf budget  
+- **DX automation**: custom CLIs, bundle-guard rails, type/lint/visual-regression scripts  
+- **Testing strategy**: component & visual tests, MSW mock/contract, routing/store isolation  
+- **Code quality**: strict TS, ESLint rules, mandatory **pre-commit** checks (Husky)  
+- **CI/CD**: GitHub Actions (matrix builds, Turbo cache), Storybook/Chromatic publishing, artifacts governance  
+- **Security & reliability**: centralized error handling, sane **env** policy, dependency control  
+- **A11y/UX**: React-Aria components, focus-management, keyboard flows
 </details>
