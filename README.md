@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Narek</h1>
 <p align="center"><b>Senior Frontend Engineer — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</b></p>
 
----
-
 <p>
   <a href="https://github.com/NarekPoghosyan">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=NarekPoghosyan&label=Profile%20views&color=0e75b6&style=flat" />
