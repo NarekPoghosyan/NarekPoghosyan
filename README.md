@@ -7,6 +7,7 @@
 <h1 align="center">Hi 👋, I'm Narek</h1>
 <p align="center"><b>Senior Frontend Engineer — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</b></p>
 
+---
 <!-- Social / quick actions -->
 <p align="center"><b>Connect with me</b></p>
 <p align="center">
@@ -20,8 +21,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white">
   </a>
 </p>
-
----
 
 ### About me
 - 👨‍💻 Senior Frontend Engineer @ **Anex (ex-AnexTour)**  
