@@ -12,6 +12,7 @@
 - 👨‍💻 Lead Frontend Engineer @ **Anex (ex-AnexTour)**  
 - 💬 Ask me about Next.js, React, Github actions, Storybook, monorepos and Typescript
 - 📫 How to reach me poghosyannarek99@gmail.com
+- 🌍 Open to relocation and business travel
 - ⚡️ Fun fact: Mercedes enthusiast | Black is my vibe
 
 ### Connect with me:
