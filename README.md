@@ -13,7 +13,7 @@
 - 📫 How to reach me poghosyannarek99@gmail.com
 - ⚡️ Fun fact: Mercedes enthusiast | Black is my vibe
 
-<h2><b>Connect with me:</b></h2>
+### Connect with me:
 <p>
   <a href="mailto:poghosyannarek99@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail">
@@ -25,8 +25,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white">
   </a>
 </p>
-
----
 
 ### Languages & Tools
 <p>
