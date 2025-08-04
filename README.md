@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=Hi%20👋%2C%20I'm%20Narek&fontAlign=50&fontSize=28&section=header&animation=twinkling" />
 </div>
+
 <div align="center">
   <h3><b>Lead Frontend Engineer</b></h3>
 </div>
