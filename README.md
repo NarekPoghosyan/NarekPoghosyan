@@ -2,7 +2,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=Hi%20👋%2C%20I'm%20Narek&fontAlign=50&fontSize=28&section=header&animation=twinkling" />
 </div>
-<p align="center"><b>Lead Frontend Engineer</b></p>
+<div align="center">
+  <h3><b>Lead Frontend Engineer</b></h3>
+</div>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=1200&center=true&vCenter=true&width=1100&lines=Engineering+reliable+web+at+scale+%E2%80%94+Next.js+(SSR%2FSSG%2FEdge)%2C+React+19%2C+TypeScript%2C+Microfrontends"
