@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- 👨‍💻 Lead Frontend Engineer @ **Anex (ex-AnexTour)**  
+- 👨‍💻 Lead Frontend Engineer at **Anex (ex-AnexTour)**  
 - 💬 Ask me about Next.js, React, Github actions, Storybook, monorepos, Typescript, etc.
 - 📫 How to reach me poghosyannarek99@gmail.com
 - 🌍 Open to relocation and business travel
