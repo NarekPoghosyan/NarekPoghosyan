@@ -9,6 +9,33 @@
   </a>
 </p>
 
+<!-- Typing Headline -->
+<p align="center">
+  <svg width="720" height="60" viewBox="0 0 720 60" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0" x2="1">
+        <stop offset="0%" stop-color="#22D3EE"/>
+        <stop offset="100%" stop-color="#8B5CF6"/>
+      </linearGradient>
+      <mask id="cursor">
+        <rect x="0" y="0" width="720" height="60" fill="black"/>
+        <rect id="bar" x="10" y="10" width="2" height="40" fill="white">
+          <animate attributeName="x" values="10;710" dur="4.5s" fill="freeze"/>
+          <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+        </rect>
+      </mask>
+    </defs>
+    <text x="10" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas"
+          font-size="28" fill="none" stroke="url(#grad)" stroke-width="1.2"
+          stroke-dasharray="720" stroke-dashoffset="720">
+      Engineering reliable web at scale — Next.js (SSR/SSG/Edge), React 19, TypeScript
+      <animate attributeName="stroke-dashoffset" from="720" to="0" dur="4.5s" fill="freeze"/>
+    </text>
+    <rect x="0" y="0" width="720" height="60" fill="transparent" mask="url(#cursor)"/>
+  </svg>
+</p>
+
+
 - 👨‍💻 Lead Frontend Engineer at **Anex (ex-AnexTour)**  
 - 💬 Ask me about Next.js, React, Github actions, Storybook, monorepos, Typescript, etc.
 - 📫 How to reach me poghosyannarek99@gmail.com
