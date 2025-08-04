@@ -1,40 +1,20 @@
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm Narek</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=Hi%20👋%2C%20I'm%20Narek&fontAlign=50&fontSize=28&section=header&animation=twinkling" />
+</p>
 <h3 align="center"><b>Lead Frontend Engineer</b></h3>
-<p align="center"><b>Engineering reliable web at scale — Next.js (SSR/SSG/Edge), React 19, TypeScript, Microfrontends</b></p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=1200&center=true&vCenter=true&width=1100&lines=Engineering+reliable+web+at+scale+%E2%80%94+Next.js+(SSR%2FSSG%2FEdge)%2C+React+19%2C+TypeScript%2C+Microfrontends"
+    alt="Typing SVG"
+  />
+</p>
 
 <p>
   <a href="https://github.com/NarekPoghosyan">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=NarekPoghosyan&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
-
-<!-- Typing Headline -->
-<p align="center">
-  <svg width="720" height="60" viewBox="0 0 720 60" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0" x2="1">
-        <stop offset="0%" stop-color="#22D3EE"/>
-        <stop offset="100%" stop-color="#8B5CF6"/>
-      </linearGradient>
-      <mask id="cursor">
-        <rect x="0" y="0" width="720" height="60" fill="black"/>
-        <rect id="bar" x="10" y="10" width="2" height="40" fill="white">
-          <animate attributeName="x" values="10;710" dur="4.5s" fill="freeze"/>
-          <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
-        </rect>
-      </mask>
-    </defs>
-    <text x="10" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas"
-          font-size="28" fill="none" stroke="url(#grad)" stroke-width="1.2"
-          stroke-dasharray="720" stroke-dashoffset="720">
-      Engineering reliable web at scale — Next.js (SSR/SSG/Edge), React 19, TypeScript
-      <animate attributeName="stroke-dashoffset" from="720" to="0" dur="4.5s" fill="freeze"/>
-    </text>
-    <rect x="0" y="0" width="720" height="60" fill="transparent" mask="url(#cursor)"/>
-  </svg>
-</p>
-
 
 - 👨‍💻 Lead Frontend Engineer at **Anex (ex-AnexTour)**  
 - 💬 Ask me about Next.js, React, Github actions, Storybook, monorepos, Typescript, etc.
