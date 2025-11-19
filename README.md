@@ -52,7 +52,7 @@
 
 ### Featured projects
 <!-- Replace with 3–6 strongest repos. Add demos/screens if possible. -->
-- 🚀 **Microfrontends Platform** — Next.js 14, Turborepo, Yarn/Pnpm workspaces, module federation, GitHub Actions
+- 🚀 **Microfrontends Platform** — Next.js, Turborepo, Yarn/Pnpm workspaces, module federation, GitHub Actions
 - 🧰 **Design System** — Storybook, Chromatic, RAC/ARIA, tokens, ESLint/Prettier rules, release automation
 - 🗺️ **Maps SDK** — React + Mapbox GL, Google Maps JS, Yandex Maps; clustering, geojson tiling, memoized layers
 - ⚙️ **Search & Booking Engine** — SSR/ISR, React Server Components, TanStack Query, cache tags, edge functions
