@@ -55,8 +55,6 @@
 <details>
   <summary><b>More info (impact & responsibilities)</b></summary>
 
-<br/>
-
 ### What I build
 - **High-traffic web apps** on Next.js: SSR/ISR, caching strategies, performance budgets  
 - **Microfrontends + monorepo platforms** (Turborepo/Yarn workspaces), shared packages, release automation  
