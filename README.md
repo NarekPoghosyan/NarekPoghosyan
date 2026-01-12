@@ -58,7 +58,7 @@
 ### What I build
 - **High-traffic web apps** on Next.js: SSR/ISR, caching strategies, performance budgets  
 - **Microfrontends + monorepo platforms** (Turborepo/Yarn workspaces), shared packages, release automation  
-- **Design systems** (Storybook/Chromatic), accessible UI (React Aria), tokens, guidelines  
+- **Design systems** (Storybook/Chromatic), accessible UI, tokens, guidelines  
 - **DX & CI/CD** (GitHub Actions), quality gates, VRT, test automation  
 
 ### Highlights (Anex / ex-AnexTour)
