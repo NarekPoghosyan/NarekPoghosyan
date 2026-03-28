@@ -27,6 +27,7 @@
 </p>
 
 - 👨‍💻 Lead Frontend Engineer at **Anex (ex-AnexTour)**
+- 🤖 Strong in **AI-assisted engineering**: Claude, Codex, ChatGPT, and other LLM tools for debugging, refactoring, architecture exploration, documentation, and delivery acceleration
 - 💬 Ask me about Next.js, React, GitHub Actions, Storybook, monorepos, TypeScript
 - 📫 How to reach me: **poghosyannarek99@gmail.com**
 - 🌍 Work preference: **Remote only**
@@ -60,6 +61,7 @@
 - **Microfrontends + monorepo platforms** (Turborepo/Yarn workspaces), shared packages, release automation  
 - **Design systems** (Storybook/Chromatic), accessible UI, tokens, guidelines  
 - **DX & CI/CD** (GitHub Actions), quality gates, VRT, test automation  
+- **AI-assisted engineering workflows**: effective use of Claude, Codex, ChatGPT, and similar tools for prototyping, debugging, refactoring, documentation, and speeding up delivery while keeping engineering standards high  
 
 ### Highlights (Anex / ex-AnexTour)
 - Built **microfrontend architecture** on **Next.js + Turborepo** with clear domain boundaries and shared packages  
@@ -85,6 +87,6 @@
 **Frontend:** Next.js, React, TypeScript, Webpack/Vite, Tailwind  
 **Testing:** Vitest/Jest, Playwright/Cypress, MSW, Chromatic/Percy  
 **Platform:** Turborepo, GitHub Actions, Docker, Nginx, Linux  
+**AI workflow:** Claude, Codex, ChatGPT, LLM-assisted debugging/refactoring/documentation  
 
 </details>
-
