@@ -134,6 +134,13 @@
 
 </div>
 
+### All Languages & Tools
+<p align="left">
+  <div style="display:flex; align-items:center; gap:8px; flex-wrap:nowrap; overflow-x:auto;">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,redux,tailwind,styledcomponents,html,css,sass,webpack,vite,rollup,jest,vitest,vercel,graphql,apollo,prisma,postgres,mongodb,redis,sqlite,mysql,nginx,docker,linux,bash,git,githubactions,aws,gcp,azure,kubernetes,terraform,cloudflare,netlify,cypress,sentry,threejs,rxjs,bootstrap,materialui,postman,pnpm,yarn,npm,vitest,babel,grafana&perline=13" />
+  </div>
+</p>
+
 <br/>
 
 <details>
@@ -159,17 +166,6 @@
 - **CI/CD**: GitHub Actions, Turbo cache, Storybook/Chromatic publishing
 - **Security & reliability**: centralized error handling, sane env policy, dependency control
 - **A11y/UX**: React-Aria components, focus-management, keyboard flows
-
-</details>
-
-<details>
-  <summary><b>All Languages & Tools</b></summary>
-
-  <br/>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,redux,tailwind,styledcomponents,html,css,sass,webpack,vite,rollup,jest,vitest,vercel,graphql,apollo,prisma,postgres,mongodb,redis,sqlite,mysql,nginx,docker,linux,bash,git,githubactions,aws,gcp,azure,kubernetes,terraform,cloudflare,netlify,cypress,sentry,threejs,rxjs,bootstrap,materialui,postman,pnpm,yarn,npm,babel,grafana&perline=13" />
-</p>
 
 </details>
 
