@@ -8,11 +8,11 @@
 
 <br/>
 
-<a href="https://github.com/NarekPoghosyan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=NarekPoghosyan&style=flat&color=58a6ff&label=visitors" />&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/narek-poghosyan-9785111b2/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://t.me/NarekPoghosyan99"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="mailto:poghosyannarek99@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=NarekPoghosyan&style=flat&color=58a6ff&label=visitors" />
+<a href="https://github.com/NarekPoghosyan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 
 </div>
 
